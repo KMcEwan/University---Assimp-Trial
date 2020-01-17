@@ -1,0 +1,42 @@
+﻿  main.cpp
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(189): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(190): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(192): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(193): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(194): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(195): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(196): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\assimptest2\main.cpp(197): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Lab4.vcxproj -> C:\Users\k_mce\Documents\Uni\3rd Year\AGP\App\AssimpTest2\Debug\Lab4.exe
