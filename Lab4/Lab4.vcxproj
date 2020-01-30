@@ -127,15 +127,20 @@
     <ClCompile Include="..\rt3dObjLoader.cpp" />
     <ClCompile Include="Mesh.cpp" />
     <ClCompile Include="Model.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="shader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\anorms.h" />
     <ClInclude Include="..\md2model.h" />
     <ClInclude Include="..\rt3d.h" />
     <ClInclude Include="..\rt3dObjLoader.h" />
+    <ClInclude Include="filesystem.h" />
     <ClInclude Include="Mesh.h" />
     <ClInclude Include="Model.h" />
+    <ClInclude Include="SceneManager.h" />
     <ClInclude Include="shader.h" />
+    <ClInclude Include="SOIL2.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
